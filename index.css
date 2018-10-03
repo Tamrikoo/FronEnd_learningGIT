@@ -1,0 +1,27 @@
+.personage {
+	position:fixed;
+	top:0;
+	left:0;
+	width:200px;
+	height:auto;
+}
+body {
+	background-color: rgb(184, 180, 180);
+  font-family:Arial;
+  background: radial-gradient(#022d53, #010d14);
+  height: 800px
+
+}
+
+
+button {
+    background: #b5bdc8;
+    background: linear-gradient(to top, #0667f0 0%, #022d53 36%, #010d14 100%);
+    font-size: 25px; 
+    padding: 10px 20px; 
+    color: rgb(220, 245, 2); 
+    border: 1px solid #333; 
+    border-radius: 20px; 
+    text-align: center;
+     }
+
